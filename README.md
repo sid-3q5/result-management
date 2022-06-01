@@ -9,6 +9,9 @@
   <p align="center" style="font-weight: bold;"><a href="https://github.com/sid-3q5/result-management">Explore more >></a></p>
 </p>
 
+<br>
+<br>
+
 <h1> Tech Stack </h1>
 <ul>
   <li> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
@@ -18,5 +21,10 @@
   <li><a href="https://www.djangoproject.com/"> Django </a></li>
 </ul>
 
+<br>
+<br>
+
 <h1>About</h1>
 <p>I started this project in 2022 because hosting the result in COVID situation for school/colleges was a problem and to solve this I came up with this project. One can manage the scores of each individual and can host it. It has simple user interface and easy to use. The project is still under-development and will add more new features to it.</p>
+
+
