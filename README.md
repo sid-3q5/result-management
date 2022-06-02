@@ -10,7 +10,6 @@
 </p>
 
 <br>
-<br>
 
 <h1> Tech Stack </h1>
 <ul>
@@ -21,7 +20,6 @@
   <li><a href="https://www.djangoproject.com/"> Django </a></li>
 </ul>
 
-<br>
 <br>
 
 <h1>About</h1>
