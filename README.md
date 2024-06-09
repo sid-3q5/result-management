@@ -14,8 +14,7 @@
 <h1> Tech Stack </h1>
 <ul>
   <li> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
-
-  <li> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">Pure CSS</a></li>
+  <li> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   <li> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a> </li>
   <li><a href="https://www.djangoproject.com/"> Django </a></li>
 </ul>
